@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const InternetCard = (props) => {
+const InternetCard = () => {
   const classes = useStyles();
   const theme = useTheme();
 
